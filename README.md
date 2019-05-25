@@ -1,4 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react学习 recruit_app项目练习
+
+## 使用脚手架完成 create-react-app
+
+## 用到了一下多种：
+  - `react-router-dom`
+  - `redux`
+  - `react-redux`
+  - `redux-thunk`实现异步redux
 
 ## Available Scripts
 
