@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 使用脚手架完成 create-react-app
 
-## 用到了一下多种：
+## 用到了以下多种：
   - `react-router-dom`
   - `redux`
   - `react-redux`
